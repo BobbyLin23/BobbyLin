@@ -4,11 +4,10 @@
 I'm a passionate software developer with a love for creating innovative and efficient solutions. My journey in programming started a few years ago, and since then, I have been continuously learning and improving my skills. I enjoy working on a variety of projects, from web development to data science.
 
 ## Skills
-- **Languages**: Python, JavaScript, Java, C++
-- **Web Development**: HTML, CSS, React, Node.js, Express
-- **Data Science**: Pandas, NumPy, Matplotlib, Scikit-Learn
-- **Databases**: MySQL, MongoDB
-- **Tools**: Git, Docker, Jenkins
+- **Languages**: JavaScript, TypeScript
+- **Web Development**: HTML, CSS, React, Vue, Nest.js
+- **FullStack**: Next.js, Nuxt.js
+- **Databases**: MySQL, MongoDB, PostgreSQL
 
 ## Projects
 - **[Project Name](link-to-project)**: Brief description of the project and what technologies were used.
